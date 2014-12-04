@@ -1,0 +1,66 @@
+[2014-11-27 15:30:04][/work/hadoopjob/dsp/dsp_conv/bin/gen_shell.sh]:get conversion from 73 DB
+[2014-11-27 15:30:14][/work/hadoopjob/dsp/dsp_conv/bin/gen_shell.sh]:get regex url
+[2014-11-27 15:30:18][/work/hadoopjob/dsp/dsp_conv/bin/gen_shell.sh]:start to process data from HDFS pv
+[2014-11-27 15:30:18][/work/hadoopjob/dsp/dsp_conv/bin/gen_shell.sh]:start to process data from HDFS uv
+[2014-11-27 15:30:18][/work/hadoopjob/dsp/dsp_conv/bin/gen_shell.sh]:start to process data from HDFS cl
+[2014-11-27 15:30:18][/work/hadoopjob/dsp/dsp_conv/bin/gen_shell.sh]:start to process data from HDFS cv
+[2014-11-27 15:48:53][./gen_shell.sh]:get conversion from 73 DB
+[2014-11-27 15:49:00][./gen_shell.sh]:get regex url
+[2014-11-27 15:49:04][./gen_shell.sh]:start to process data from HDFS pv
+[2014-11-27 15:49:04][./gen_shell.sh]:start to process data from HDFS uv
+[2014-11-27 15:49:04][./gen_shell.sh]:start to process data from HDFS cl
+[2014-11-27 15:49:04][./gen_shell.sh]:start to process data from HDFS cv
+[2014-11-27 15:58:21][./gen_shell.sh]:get conversion from 73 DB
+[2014-11-27 15:58:28][./gen_shell.sh]:get regex url
+[2014-11-27 15:58:32][./gen_shell.sh]:start to process data from HDFS pv
+[2014-11-27 15:58:32][./gen_shell.sh]:start to process data from HDFS uv
+[2014-11-27 15:58:32][./gen_shell.sh]:start to process data from HDFS cl
+[2014-11-27 15:58:32][./gen_shell.sh]:start to process data from HDFS cv
+[2014-11-27 16:30:04][/work/hadoopjob/dsp/dsp_conv/bin/gen_shell.sh]:get conversion from 73 DB
+[2014-11-27 16:30:11][/work/hadoopjob/dsp/dsp_conv/bin/gen_shell.sh]:get regex url
+[2014-11-27 16:30:15][/work/hadoopjob/dsp/dsp_conv/bin/gen_shell.sh]:start to process data from HDFS pv
+[2014-11-27 16:30:15][/work/hadoopjob/dsp/dsp_conv/bin/gen_shell.sh]:start to process data from HDFS uv
+[2014-11-27 16:30:15][/work/hadoopjob/dsp/dsp_conv/bin/gen_shell.sh]:start to process data from HDFS cl
+[2014-11-27 16:30:15][/work/hadoopjob/dsp/dsp_conv/bin/gen_shell.sh]:start to process data from HDFS cv
+[2014-11-27 16:55:09][./gen_shell.sh]:get conversion from 73 DB
+[2014-11-27 16:55:10][./gen_shell.sh]:get conversion from 73 DB failed,please check DB.
+[2014-11-27 16:55:14][./gen_shell.sh]:get regex url
+[2014-11-27 16:55:16][./gen_shell.sh]:start to process data from HDFS pv
+[2014-11-27 16:55:16][./gen_shell.sh]:start to process data from HDFS uv
+[2014-11-27 16:55:16][./gen_shell.sh]:start to process data from HDFS cl
+[2014-11-27 16:55:16][./gen_shell.sh]:start to process data from HDFS cv
+[2014-11-27 16:56:36][./gen_shell.sh]:get conversion from 73 DB
+[2014-11-27 16:56:36][./gen_shell.sh]:get conversion from 73 DB failed,please check DB.
+[2014-11-27 16:56:40][./gen_shell.sh]:get regex url
+[2014-11-27 16:56:43][./gen_shell.sh]:start to process data from HDFS pv
+[2014-11-27 16:56:43][./gen_shell.sh]:start to process data from HDFS uv
+[2014-11-27 16:56:43][./gen_shell.sh]:start to process data from HDFS cl
+[2014-11-27 16:56:43][./gen_shell.sh]:start to process data from HDFS cv
+[2014-11-27 16:57:22][./gen_shell.sh]:get conversion from 73 DB
+[2014-11-27 16:57:22][./gen_shell.sh]:get conversion from 73 DB failed,please check DB.
+[2014-11-27 16:57:27][./gen_shell.sh]:get regex url
+[2014-11-27 16:57:29][./gen_shell.sh]:start to process data from HDFS pv
+[2014-11-27 16:57:29][./gen_shell.sh]:start to process data from HDFS uv
+[2014-11-27 16:57:29][./gen_shell.sh]:start to process data from HDFS cl
+[2014-11-27 16:57:29][./gen_shell.sh]:start to process data from HDFS cv
+[2014-11-27 16:58:04][./gen_shell.sh]:get conversion from 73 DB
+[2014-11-27 16:58:04][./gen_shell.sh]:get conversion from 73 DB failed,please check DB.
+[2014-11-27 16:58:08][./gen_shell.sh]:get regex url
+[2014-11-27 16:58:10][./gen_shell.sh]:start to process data from HDFS pv
+[2014-11-27 16:58:10][./gen_shell.sh]:start to process data from HDFS uv
+[2014-11-27 16:58:10][./gen_shell.sh]:start to process data from HDFS cl
+[2014-11-27 16:58:10][./gen_shell.sh]:start to process data from HDFS cv
+[2014-11-27 16:59:08][./gen_shell.sh]:get conversion from 73 DB
+[2014-11-27 16:59:08][./gen_shell.sh]:get conversion from 73 DB failed,please check DB.
+[2014-11-27 16:59:13][./gen_shell.sh]:get regex url
+[2014-11-27 16:59:15][./gen_shell.sh]:start to process data from HDFS pv
+[2014-11-27 16:59:15][./gen_shell.sh]:start to process data from HDFS uv
+[2014-11-27 16:59:15][./gen_shell.sh]:start to process data from HDFS cl
+[2014-11-27 16:59:15][./gen_shell.sh]:start to process data from HDFS cv
+[2014-11-27 16:59:47][./gen_shell.sh]:get conversion from 73 DB
+[2014-11-27 16:59:47][./gen_shell.sh]:get conversion from 73 DB failed,please check DB.
+[2014-11-27 16:59:51][./gen_shell.sh]:get regex url
+[2014-11-27 16:59:53][./gen_shell.sh]:start to process data from HDFS pv
+[2014-11-27 16:59:53][./gen_shell.sh]:start to process data from HDFS uv
+[2014-11-27 16:59:53][./gen_shell.sh]:start to process data from HDFS cl
+[2014-11-27 16:59:53][./gen_shell.sh]:start to process data from HDFS cv

@@ -1,0 +1,1 @@
+SELECT DISTINCT CONCAT(url,"}{",RIGHT(calcindex,LENGTH(advertiser_id)+2),"{}",advertiser_id),convday FROM `TrackingCodeLogData`.`conversion` WHERE STATUS = 1 AND calcindex LIKE 'CL%' ORDER BY convday ASC, LENGTH(url) DESC;
